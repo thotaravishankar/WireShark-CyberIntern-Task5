@@ -35,8 +35,6 @@ Capture live network packets and identify basic protocols and traffic types usin
 --------->Screenshot of TCP Protocol packets from source(my pc) to destiantion facebook.com by browsing. By this operation TCP protocol will sent tcp packets to destination and source to complete three way handShake rule to establish a connection between them
 <img width="1919" height="390" alt="Screenshot 2025-09-29 134015" src="https://github.com/user-attachments/assets/4dd28e71-0a76-4fe2-ae01-76625993bc7f" />
 
-
-
 ##  Protocols Identified
 - **HTTP** – Used for web communication (port 80/443).
 - **DNS** – Used for domain name resolution (port 53).

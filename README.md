@@ -6,7 +6,7 @@
 Capture live network packets and identify basic protocols and traffic types using Wireshark.
 
 ##  Tools Used
-- Wireshark (latest version)
+- Wireshark 
 - Operating System: Windows 11
 
 ##  Steps Performed
